@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    text-shadow: 0cqh;
+}
+body{
+    background-color: beige;
+}
+h2{
+    text-align: center;
+}
+.block1{
+    display: flex;
+}
+img {
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    width: 700px;
+}
+p{
+    text-align: top;
+    text-align: left;
+}
