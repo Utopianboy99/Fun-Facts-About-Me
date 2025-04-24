@@ -1,0 +1,52 @@
+
+body {
+    
+   background-size: cover;
+   background-color: black;
+   background-repeat: no-repeat; 
+   background-position: center;
+   font-family: Arial, sans-serif;
+   padding: 20px;
+   color:goldenrod;
+}
+
+h1 {
+   text-align: center;
+   color:blue;
+}
+
+section.transparent-text-box{
+   background-color: greenyellow;
+   padding: 15px;
+   margin: 20px auto;
+   max-width: 600px;
+   border-radius: 10px;
+   box-shadow: 0 0 10px rgba(0,0,0,0.1);
+       background-color: rgba(0, 0, 0, 0.5);
+       color: blue;
+       padding: 20px;
+       border-radius: 10px;
+     
+}
+
+h2 {
+   color:greenyellow;
+}
+
+img{
+   padding: 5px;
+   border-radius:50px;
+   background-color: black;
+  
+}
+.socials a {
+   display: block;
+   text-decoration: none;
+   color: #4f46e5;
+   margin: 0.5rem 0;
+   align-items: center;
+   font-weight: bold;
+   font-size: medium;
+   font-weight: bold;
+ }
+ 
